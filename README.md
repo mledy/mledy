@@ -1,3 +1,3 @@
-Matej
-Education: Bachelor of Graphic Design
-Status: Freelance
+_Matej
+_Education: Bachelor of Graphic Design
+_Status: Freelance
